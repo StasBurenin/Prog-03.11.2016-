@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\admin\documents\visual studio 2015\projects\number 2\number 2\main.cpp(16): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Number 2.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\Number 2\Debug\Number 2.exe
+  Number 2.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\Number 2\Debug\Number 2.pdb (Partial PDB)
